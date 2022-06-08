@@ -140,7 +140,7 @@ namespace Forca
                     KwaitA.Visible = true;
                     KwaitI.Visible = true;
                     KwaitT.Visible = true;
-                    lblDica.Text = "O petróleo e seus derivados constituem quase 85% das receitas de exportação";
+                    lblDica.Text = "O petróleo e seus derivados constituem quase 85% das receitas de exportação do mundo";
                     break;
                 case "Nome":
                     ArturA.Visible = true;
@@ -178,52 +178,135 @@ namespace Forca
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
-            if (Tron.Contains(txtBxLetra.Text) == false)
+            if (cmbBxCategoria.Text == "Filme")
             {
-                erros = erros + 1;
-            } else if (Tron.Contains(txtBxLetra.Text) == true)
-            {
-                if (txtBxLetra.Text == "T")
-                    TronT.Text = "T";
-                else if (txtBxLetra.Text == "R")
-                    TronR.Text = "R";
-                else if (txtBxLetra.Text == "O")
+                if (Tron.Contains(txtBxLetra.Text) == false)
                 {
-                    TronO.Text = "O";
-                    TronO2.Text = "O";
-                    TronO3.Text = "O";
+                    erros = erros + 1;
                 }
-                else if (txtBxLetra.Text == "N")
-                    TronN.Text = "N";
-                else if (txtBxLetra.Text == "L")
-                    TronL.Text = "L";
-                else if (txtBxLetra.Text == "E")
-                    TronE.Text = "E";
-                else if (txtBxLetra.Text == "G")
-                    TronG.Text = "G";
-                else if (txtBxLetra.Text == "A")
-                    TronA.Text = "A";
-                else if (txtBxLetra.Text == "D")
-                    TronD.Text = "D";
+                else if (Tron.Contains(txtBxLetra.Text) == true)
+                {
+                    if (txtBxLetra.Text == "T")
+                        TronT.Text = "T";
+                    else if (txtBxLetra.Text == "R")
+                        TronR.Text = "R";
+                    else if (txtBxLetra.Text == "O")
+                    {
+                        TronO.Text = "O";
+                        TronO2.Text = "O";
+                        TronO3.Text = "O";
+                    }
+                    else if (txtBxLetra.Text == "N")
+                        TronN.Text = "N";
+                    else if (txtBxLetra.Text == "L")
+                        TronL.Text = "L";
+                    else if (txtBxLetra.Text == "E")
+                        TronE.Text = "E";
+                    else if (txtBxLetra.Text == "G")
+                        TronG.Text = "G";
+                    else if (txtBxLetra.Text == "A")
+                        TronA.Text = "A";
+                    else if (txtBxLetra.Text == "D")
+                        TronD.Text = "D";
+                }
             }
 
-            if (Kuwait.Contains(txtBxLetra.Text) == false)
+            if (cmbBxCategoria.Text == "País")
             {
-                erros = erros + 1;
-            } else if (Kuwait.Contains(txtBxLetra.Text) == true)
+                if (Kuwait.Contains(txtBxLetra.Text) == false)
+                {
+                    erros = erros + 1;
+                }
+                else if (Kuwait.Contains(txtBxLetra.Text) == true)
+                {
+                    if (txtBxLetra.Text == "K")
+                        KwaitK.Text = "K";
+                    else if (txtBxLetra.Text == "U")
+                        KwaitU.Text = "U";
+                    else if (txtBxLetra.Text == "W")
+                        KwaitW.Text = "W";
+                    else if (txtBxLetra.Text == "A")
+                        KwaitA.Text = "A";
+                    else if (txtBxLetra.Text == "I")
+                        KwaitI.Text = "I";
+                    else if (txtBxLetra.Text == "T")
+                        KwaitT.Text = "T";
+                }
+            }
+
+            if (cmbBxCategoria.Text == "Nome")
             {
-                if (txtBxLetra.Text == "K")
-                    KwaitK.Text = "K";
-                else if (txtBxLetra.Text == "U")
-                    KwaitU.Text = "U";
-                else if (txtBxLetra.Text == "W")
-                    KwaitW.Text = "W";
-                else if (txtBxLetra.Text == "A")
-                    KwaitA.Text = "A";
-                else if (txtBxLetra.Text == "I")
-                    KwaitI.Text = "I";
-                else if (txtBxLetra.Text == "T")
-                    KwaitT.Text = "T";
+                if (Artur.Contains(txtBxLetra.Text) == false)
+                {
+                    erros = erros + 1;
+                }
+                else if (Artur.Contains(txtBxLetra.Text) == true)
+                {
+                    if (txtBxLetra.Text == "A")
+                        ArturA.Text = "A";
+                    else if (txtBxLetra.Text == "R")
+                    {
+                        ArturR.Text = "R";
+                        ArturR2.Text = "R";
+                    } 
+                    else if (txtBxLetra.Text == "T") 
+                        ArturT.Text = "T";
+                    else if (txtBxLetra.Text == "U") 
+                        ArturU.Text = "U";
+                }
+            }
+
+            if (cmbBxCategoria.Text == "Capital")
+            {
+                if (Kyoto.Contains(txtBxLetra.Text) == false)
+                {
+                    erros = erros + 1;
+                }
+                else if (Kyoto.Contains(txtBxLetra.Text) == true)
+                {
+                    if (txtBxLetra.Text == "K")
+                        KyotoK.Text = "K";
+                    else if (txtBxLetra.Text == "Y")
+                        KyotoY.Text = "Y";
+                    else if (txtBxLetra.Text == "O")
+                    {
+                        KyotoO.Text = "O";
+                        KyotoO2.Text = "O";
+                    }
+                    else if (txtBxLetra.Text == "T")
+                        KyotoT.Text = "T";
+                }
+            }
+
+            if (cmbBxCategoria.Text == "Celebridade" )
+            {
+                if (Emma.Contains(txtBxLetra.Text) == false)
+                {
+                    erros = erros + 1;
+                }
+                else if (Emma.Contains(txtBxLetra.Text) == true)
+                {
+                    if (txtBxLetra.Text == "E")
+                    {
+                        EmmaE.Text = "E";
+                        EmmaE2.Text = "E";
+                    }
+                    else if (txtBxLetra.Text == "M")
+                    {
+                        EmmaM.Text = "M";
+                        EmmaM2.Text = "M";
+                    }
+                    else if (txtBxLetra.Text == "A")
+                        EmmaA.Text = "A";
+                    else if (txtBxLetra.Text == "S")
+                        EmmaS.Text = "S";
+                    else if (txtBxLetra.Text == "T")
+                        EmmaT.Text = "T";
+                    else if (txtBxLetra.Text == "O")
+                        EmmaO.Text = "O";
+                    else if (txtBxLetra.Text == "N")
+                        EmmaN.Text = "N";
+                }
             }
 
             switch (erros)

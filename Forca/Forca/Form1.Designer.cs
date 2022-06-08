@@ -496,7 +496,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KyotoO2.AutoSize = true;
             this.KyotoO2.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KyotoO2.Location = new System.Drawing.Point(703, 332);
+            this.KyotoO2.Location = new System.Drawing.Point(696, 346);
             this.KyotoO2.Name = "KyotoO2";
             this.KyotoO2.Size = new System.Drawing.Size(24, 32);
             this.KyotoO2.TabIndex = 37;
@@ -509,7 +509,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KyotoT.AutoSize = true;
             this.KyotoT.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KyotoT.Location = new System.Drawing.Point(673, 332);
+            this.KyotoT.Location = new System.Drawing.Point(576, 346);
             this.KyotoT.Name = "KyotoT";
             this.KyotoT.Size = new System.Drawing.Size(24, 32);
             this.KyotoT.TabIndex = 36;
@@ -522,7 +522,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KyotoO.AutoSize = true;
             this.KyotoO.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KyotoO.Location = new System.Drawing.Point(643, 332);
+            this.KyotoO.Location = new System.Drawing.Point(606, 346);
             this.KyotoO.Name = "KyotoO";
             this.KyotoO.Size = new System.Drawing.Size(24, 32);
             this.KyotoO.TabIndex = 35;
@@ -535,7 +535,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KyotoY.AutoSize = true;
             this.KyotoY.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KyotoY.Location = new System.Drawing.Point(613, 332);
+            this.KyotoY.Location = new System.Drawing.Point(666, 346);
             this.KyotoY.Name = "KyotoY";
             this.KyotoY.Size = new System.Drawing.Size(24, 32);
             this.KyotoY.TabIndex = 34;
@@ -548,7 +548,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KyotoK.AutoSize = true;
             this.KyotoK.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KyotoK.Location = new System.Drawing.Point(583, 332);
+            this.KyotoK.Location = new System.Drawing.Point(636, 346);
             this.KyotoK.Name = "KyotoK";
             this.KyotoK.Size = new System.Drawing.Size(24, 32);
             this.KyotoK.TabIndex = 33;
@@ -688,7 +688,7 @@
             // btnSubmit
             // 
             this.btnSubmit.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnSubmit.Location = new System.Drawing.Point(815, 92);
+            this.btnSubmit.Location = new System.Drawing.Point(925, 92);
             this.btnSubmit.Name = "btnSubmit";
             this.btnSubmit.Size = new System.Drawing.Size(75, 23);
             this.btnSubmit.TabIndex = 48;
@@ -700,7 +700,7 @@
             // 
             this.txtBxLetra.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.txtBxLetra.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
-            this.txtBxLetra.Location = new System.Drawing.Point(802, 65);
+            this.txtBxLetra.Location = new System.Drawing.Point(912, 65);
             this.txtBxLetra.MaxLength = 1;
             this.txtBxLetra.Name = "txtBxLetra";
             this.txtBxLetra.Size = new System.Drawing.Size(100, 23);
@@ -723,7 +723,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(951, 450);
+            this.ClientSize = new System.Drawing.Size(1061, 450);
             this.Controls.Add(this.KwaitU);
             this.Controls.Add(this.txtBxLetra);
             this.Controls.Add(this.btnSubmit);
