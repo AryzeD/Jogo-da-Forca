@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\source\\repos\\Forca\\Forca\\Forca.csproj": {}
+    "E:\\projetos VS\\proj\\Forca\\Forca\\Forca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\source\\repos\\Forca\\Forca\\Forca.csproj": {
+    "E:\\projetos VS\\proj\\Forca\\Forca\\Forca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\source\\repos\\Forca\\Forca\\Forca.csproj",
+        "projectUniqueName": "E:\\projetos VS\\proj\\Forca\\Forca\\Forca.csproj",
         "projectName": "Forca",
-        "projectPath": "C:\\Users\\dev\\source\\repos\\Forca\\Forca\\Forca.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\source\\repos\\Forca\\Forca\\obj\\",
+        "projectPath": "E:\\projetos VS\\proj\\Forca\\Forca\\Forca.csproj",
+        "packagesPath": "C:\\Users\\JOSELITA\\.nuget\\packages\\",
+        "outputPath": "E:\\projetos VS\\proj\\Forca\\Forca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JOSELITA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

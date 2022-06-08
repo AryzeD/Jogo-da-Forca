@@ -16,3 +16,39 @@ C:\Users\dev\source\repos\Forca\Forca\obj\Debug\net6.0-windows\refint\Forca.dll
 C:\Users\dev\source\repos\Forca\Forca\obj\Debug\net6.0-windows\Forca.pdb
 C:\Users\dev\source\repos\Forca\Forca\obj\Debug\net6.0-windows\Forca.genruntimeconfig.cache
 C:\Users\dev\source\repos\Forca\Forca\obj\Debug\net6.0-windows\ref\Forca.dll
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\bin\Debug\net6.0-windows\Forca.exe
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\bin\Debug\net6.0-windows\Forca.deps.json
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\bin\Debug\net6.0-windows\Forca.runtimeconfig.json
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\bin\Debug\net6.0-windows\Forca.dll
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\bin\Debug\net6.0-windows\Forca.pdb
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\Forca.csproj.AssemblyReference.cache
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\Forca.Form1.resources
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\Forca.Properties.Resources.resources
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\Forca.csproj.GenerateResource.cache
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\Forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\Forca.AssemblyInfoInputs.cache
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\Forca.AssemblyInfo.cs
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\Forca.csproj.CoreCompileInputs.cache
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\Forca.dll
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\refint\Forca.dll
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\Forca.pdb
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\Forca.genruntimeconfig.cache
+C:\Users\JOSELITA\Source\Repos\AryzeD\Jogo-da-Forca\Forca\Forca\obj\Debug\net6.0-windows\ref\Forca.dll
+E:\projetos VS\proj\Forca\Forca\bin\Debug\net6.0-windows\Forca.exe
+E:\projetos VS\proj\Forca\Forca\bin\Debug\net6.0-windows\Forca.deps.json
+E:\projetos VS\proj\Forca\Forca\bin\Debug\net6.0-windows\Forca.runtimeconfig.json
+E:\projetos VS\proj\Forca\Forca\bin\Debug\net6.0-windows\Forca.dll
+E:\projetos VS\proj\Forca\Forca\bin\Debug\net6.0-windows\Forca.pdb
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\Forca.csproj.AssemblyReference.cache
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\Forca.Form1.resources
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\Forca.Properties.Resources.resources
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\Forca.csproj.GenerateResource.cache
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\Forca.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\Forca.AssemblyInfoInputs.cache
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\Forca.AssemblyInfo.cs
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\Forca.csproj.CoreCompileInputs.cache
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\Forca.dll
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\refint\Forca.dll
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\Forca.pdb
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\Forca.genruntimeconfig.cache
+E:\projetos VS\proj\Forca\Forca\obj\Debug\net6.0-windows\ref\Forca.dll

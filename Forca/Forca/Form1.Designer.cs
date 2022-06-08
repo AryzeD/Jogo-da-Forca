@@ -214,7 +214,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TronT.AutoSize = true;
             this.TronT.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.TronT.Location = new System.Drawing.Point(402, 172);
+            this.TronT.Location = new System.Drawing.Point(450, 177);
             this.TronT.Name = "TronT";
             this.TronT.Size = new System.Drawing.Size(24, 32);
             this.TronT.TabIndex = 10;
@@ -227,7 +227,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TronR.AutoSize = true;
             this.TronR.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.TronR.Location = new System.Drawing.Point(422, 172);
+            this.TronR.Location = new System.Drawing.Point(480, 177);
             this.TronR.Name = "TronR";
             this.TronR.Size = new System.Drawing.Size(24, 32);
             this.TronR.TabIndex = 11;
@@ -240,7 +240,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TronO.AutoSize = true;
             this.TronO.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.TronO.Location = new System.Drawing.Point(443, 172);
+            this.TronO.Location = new System.Drawing.Point(510, 177);
             this.TronO.Name = "TronO";
             this.TronO.Size = new System.Drawing.Size(24, 32);
             this.TronO.TabIndex = 13;
@@ -253,7 +253,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TronN.AutoSize = true;
             this.TronN.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.TronN.Location = new System.Drawing.Point(464, 172);
+            this.TronN.Location = new System.Drawing.Point(540, 177);
             this.TronN.Name = "TronN";
             this.TronN.Size = new System.Drawing.Size(24, 32);
             this.TronN.TabIndex = 14;
@@ -266,7 +266,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TronO2.AutoSize = true;
             this.TronO2.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.TronO2.Location = new System.Drawing.Point(503, 172);
+            this.TronO2.Location = new System.Drawing.Point(583, 177);
             this.TronO2.Name = "TronO2";
             this.TronO2.Size = new System.Drawing.Size(24, 32);
             this.TronO2.TabIndex = 15;
@@ -279,7 +279,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TronL.AutoSize = true;
             this.TronL.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.TronL.Location = new System.Drawing.Point(543, 172);
+            this.TronL.Location = new System.Drawing.Point(633, 177);
             this.TronL.Name = "TronL";
             this.TronL.Size = new System.Drawing.Size(24, 32);
             this.TronL.TabIndex = 16;
@@ -292,7 +292,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TronE.AutoSize = true;
             this.TronE.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.TronE.Location = new System.Drawing.Point(563, 172);
+            this.TronE.Location = new System.Drawing.Point(663, 177);
             this.TronE.Name = "TronE";
             this.TronE.Size = new System.Drawing.Size(24, 32);
             this.TronE.TabIndex = 17;
@@ -305,7 +305,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TronG.AutoSize = true;
             this.TronG.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.TronG.Location = new System.Drawing.Point(583, 172);
+            this.TronG.Location = new System.Drawing.Point(693, 177);
             this.TronG.Name = "TronG";
             this.TronG.Size = new System.Drawing.Size(24, 32);
             this.TronG.TabIndex = 18;
@@ -318,7 +318,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TronA.AutoSize = true;
             this.TronA.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.TronA.Location = new System.Drawing.Point(604, 172);
+            this.TronA.Location = new System.Drawing.Point(723, 177);
             this.TronA.Name = "TronA";
             this.TronA.Size = new System.Drawing.Size(24, 32);
             this.TronA.TabIndex = 19;
@@ -331,7 +331,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TronD.AutoSize = true;
             this.TronD.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.TronD.Location = new System.Drawing.Point(624, 172);
+            this.TronD.Location = new System.Drawing.Point(753, 177);
             this.TronD.Name = "TronD";
             this.TronD.Size = new System.Drawing.Size(24, 32);
             this.TronD.TabIndex = 20;
@@ -344,7 +344,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.TronO3.AutoSize = true;
             this.TronO3.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.TronO3.Location = new System.Drawing.Point(644, 172);
+            this.TronO3.Location = new System.Drawing.Point(783, 177);
             this.TronO3.Name = "TronO3";
             this.TronO3.Size = new System.Drawing.Size(24, 32);
             this.TronO3.TabIndex = 21;
@@ -379,7 +379,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KwaitI.AutoSize = true;
             this.KwaitI.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KwaitI.Location = new System.Drawing.Point(545, 204);
+            this.KwaitI.Location = new System.Drawing.Point(671, 236);
             this.KwaitI.Name = "KwaitI";
             this.KwaitI.Size = new System.Drawing.Size(24, 32);
             this.KwaitI.TabIndex = 27;
@@ -392,7 +392,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KwaitA.AutoSize = true;
             this.KwaitA.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KwaitA.Location = new System.Drawing.Point(524, 204);
+            this.KwaitA.Location = new System.Drawing.Point(641, 236);
             this.KwaitA.Name = "KwaitA";
             this.KwaitA.Size = new System.Drawing.Size(24, 32);
             this.KwaitA.TabIndex = 26;
@@ -405,7 +405,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KwaitW.AutoSize = true;
             this.KwaitW.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KwaitW.Location = new System.Drawing.Point(503, 204);
+            this.KwaitW.Location = new System.Drawing.Point(611, 236);
             this.KwaitW.Name = "KwaitW";
             this.KwaitW.Size = new System.Drawing.Size(24, 32);
             this.KwaitW.TabIndex = 25;
@@ -418,7 +418,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KwaitK.AutoSize = true;
             this.KwaitK.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KwaitK.Location = new System.Drawing.Point(462, 204);
+            this.KwaitK.Location = new System.Drawing.Point(551, 236);
             this.KwaitK.Name = "KwaitK";
             this.KwaitK.Size = new System.Drawing.Size(24, 32);
             this.KwaitK.TabIndex = 24;
@@ -431,7 +431,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.ArturU.AutoSize = true;
             this.ArturU.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.ArturU.Location = new System.Drawing.Point(524, 236);
+            this.ArturU.Location = new System.Drawing.Point(671, 289);
             this.ArturU.Name = "ArturU";
             this.ArturU.Size = new System.Drawing.Size(24, 32);
             this.ArturU.TabIndex = 31;
@@ -444,7 +444,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.ArturT.AutoSize = true;
             this.ArturT.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.ArturT.Location = new System.Drawing.Point(503, 236);
+            this.ArturT.Location = new System.Drawing.Point(641, 289);
             this.ArturT.Name = "ArturT";
             this.ArturT.Size = new System.Drawing.Size(24, 32);
             this.ArturT.TabIndex = 30;
@@ -457,7 +457,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.ArturR.AutoSize = true;
             this.ArturR.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.ArturR.Location = new System.Drawing.Point(482, 236);
+            this.ArturR.Location = new System.Drawing.Point(611, 289);
             this.ArturR.Name = "ArturR";
             this.ArturR.Size = new System.Drawing.Size(24, 32);
             this.ArturR.TabIndex = 29;
@@ -470,7 +470,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.ArturA.AutoSize = true;
             this.ArturA.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.ArturA.Location = new System.Drawing.Point(462, 236);
+            this.ArturA.Location = new System.Drawing.Point(581, 289);
             this.ArturA.Name = "ArturA";
             this.ArturA.Size = new System.Drawing.Size(24, 32);
             this.ArturA.TabIndex = 28;
@@ -483,7 +483,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.ArturR2.AutoSize = true;
             this.ArturR2.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.ArturR2.Location = new System.Drawing.Point(544, 236);
+            this.ArturR2.Location = new System.Drawing.Point(701, 289);
             this.ArturR2.Name = "ArturR2";
             this.ArturR2.Size = new System.Drawing.Size(24, 32);
             this.ArturR2.TabIndex = 32;
@@ -496,7 +496,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KyotoO2.AutoSize = true;
             this.KyotoO2.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KyotoO2.Location = new System.Drawing.Point(544, 268);
+            this.KyotoO2.Location = new System.Drawing.Point(703, 332);
             this.KyotoO2.Name = "KyotoO2";
             this.KyotoO2.Size = new System.Drawing.Size(24, 32);
             this.KyotoO2.TabIndex = 37;
@@ -509,7 +509,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KyotoT.AutoSize = true;
             this.KyotoT.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KyotoT.Location = new System.Drawing.Point(524, 268);
+            this.KyotoT.Location = new System.Drawing.Point(673, 332);
             this.KyotoT.Name = "KyotoT";
             this.KyotoT.Size = new System.Drawing.Size(24, 32);
             this.KyotoT.TabIndex = 36;
@@ -522,7 +522,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KyotoO.AutoSize = true;
             this.KyotoO.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KyotoO.Location = new System.Drawing.Point(503, 268);
+            this.KyotoO.Location = new System.Drawing.Point(643, 332);
             this.KyotoO.Name = "KyotoO";
             this.KyotoO.Size = new System.Drawing.Size(24, 32);
             this.KyotoO.TabIndex = 35;
@@ -535,7 +535,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KyotoY.AutoSize = true;
             this.KyotoY.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KyotoY.Location = new System.Drawing.Point(482, 268);
+            this.KyotoY.Location = new System.Drawing.Point(613, 332);
             this.KyotoY.Name = "KyotoY";
             this.KyotoY.Size = new System.Drawing.Size(24, 32);
             this.KyotoY.TabIndex = 34;
@@ -548,7 +548,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KyotoK.AutoSize = true;
             this.KyotoK.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KyotoK.Location = new System.Drawing.Point(462, 268);
+            this.KyotoK.Location = new System.Drawing.Point(583, 332);
             this.KyotoK.Name = "KyotoK";
             this.KyotoK.Size = new System.Drawing.Size(24, 32);
             this.KyotoK.TabIndex = 33;
@@ -561,7 +561,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.EmmaA.AutoSize = true;
             this.EmmaA.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.EmmaA.Location = new System.Drawing.Point(471, 300);
+            this.EmmaA.Location = new System.Drawing.Point(606, 384);
             this.EmmaA.Name = "EmmaA";
             this.EmmaA.Size = new System.Drawing.Size(24, 32);
             this.EmmaA.TabIndex = 41;
@@ -574,7 +574,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.EmmaM2.AutoSize = true;
             this.EmmaM2.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.EmmaM2.Location = new System.Drawing.Point(450, 300);
+            this.EmmaM2.Location = new System.Drawing.Point(576, 384);
             this.EmmaM2.Name = "EmmaM2";
             this.EmmaM2.Size = new System.Drawing.Size(24, 32);
             this.EmmaM2.TabIndex = 40;
@@ -587,7 +587,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.EmmaM.AutoSize = true;
             this.EmmaM.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.EmmaM.Location = new System.Drawing.Point(429, 300);
+            this.EmmaM.Location = new System.Drawing.Point(546, 384);
             this.EmmaM.Name = "EmmaM";
             this.EmmaM.Size = new System.Drawing.Size(24, 32);
             this.EmmaM.TabIndex = 39;
@@ -600,7 +600,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.EmmaE.AutoSize = true;
             this.EmmaE.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.EmmaE.Location = new System.Drawing.Point(409, 300);
+            this.EmmaE.Location = new System.Drawing.Point(516, 384);
             this.EmmaE.Name = "EmmaE";
             this.EmmaE.Size = new System.Drawing.Size(24, 32);
             this.EmmaE.TabIndex = 38;
@@ -613,7 +613,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.EmmaE2.AutoSize = true;
             this.EmmaE2.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.EmmaE2.Location = new System.Drawing.Point(594, 300);
+            this.EmmaE2.Location = new System.Drawing.Point(767, 384);
             this.EmmaE2.Name = "EmmaE2";
             this.EmmaE2.Size = new System.Drawing.Size(24, 32);
             this.EmmaE2.TabIndex = 46;
@@ -626,7 +626,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.EmmaN.AutoSize = true;
             this.EmmaN.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.EmmaN.Location = new System.Drawing.Point(574, 300);
+            this.EmmaN.Location = new System.Drawing.Point(737, 384);
             this.EmmaN.Name = "EmmaN";
             this.EmmaN.Size = new System.Drawing.Size(24, 32);
             this.EmmaN.TabIndex = 45;
@@ -639,7 +639,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.EmmaO.AutoSize = true;
             this.EmmaO.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.EmmaO.Location = new System.Drawing.Point(553, 300);
+            this.EmmaO.Location = new System.Drawing.Point(707, 384);
             this.EmmaO.Name = "EmmaO";
             this.EmmaO.Size = new System.Drawing.Size(24, 32);
             this.EmmaO.TabIndex = 44;
@@ -652,7 +652,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.EmmaT.AutoSize = true;
             this.EmmaT.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.EmmaT.Location = new System.Drawing.Point(532, 300);
+            this.EmmaT.Location = new System.Drawing.Point(677, 384);
             this.EmmaT.Name = "EmmaT";
             this.EmmaT.Size = new System.Drawing.Size(24, 32);
             this.EmmaT.TabIndex = 43;
@@ -665,7 +665,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.EmmaS.AutoSize = true;
             this.EmmaS.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.EmmaS.Location = new System.Drawing.Point(512, 300);
+            this.EmmaS.Location = new System.Drawing.Point(647, 384);
             this.EmmaS.Name = "EmmaS";
             this.EmmaS.Size = new System.Drawing.Size(24, 32);
             this.EmmaS.TabIndex = 42;
@@ -678,7 +678,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KwaitT.AutoSize = true;
             this.KwaitT.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KwaitT.Location = new System.Drawing.Point(565, 204);
+            this.KwaitT.Location = new System.Drawing.Point(701, 236);
             this.KwaitT.Name = "KwaitT";
             this.KwaitT.Size = new System.Drawing.Size(24, 32);
             this.KwaitT.TabIndex = 47;
@@ -699,6 +699,7 @@
             // txtBxLetra
             // 
             this.txtBxLetra.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtBxLetra.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.txtBxLetra.Location = new System.Drawing.Point(802, 65);
             this.txtBxLetra.MaxLength = 1;
             this.txtBxLetra.Name = "txtBxLetra";
@@ -711,7 +712,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.KwaitU.AutoSize = true;
             this.KwaitU.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.KwaitU.Location = new System.Drawing.Point(482, 204);
+            this.KwaitU.Location = new System.Drawing.Point(581, 236);
             this.KwaitU.Name = "KwaitU";
             this.KwaitU.Size = new System.Drawing.Size(24, 32);
             this.KwaitU.TabIndex = 50;

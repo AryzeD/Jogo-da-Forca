@@ -1,5 +1,12 @@
 using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
 using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Forca
 {
@@ -8,6 +15,7 @@ namespace Forca
         public Form1()
         {
             InitializeComponent();
+            btnSubmit.Enabled = false;
         }
 
         string[] Tron = new string[] { "T", "R", "O", "N", "O", "L", "E", "G", "A", "D", "O" };
@@ -15,9 +23,20 @@ namespace Forca
         string[] Artur = new string[] { "A", "R", "T", "U", "R"};
         string[] Kyoto = new string[] { "K", "Y", "O", "T", "O" };
         string[] Emma = new string[] { "E", "M", "M", "A", "S", "T", "O", "N", "E" };
+        int erros = 0;
+        
 
         private void btnCategoria_Click(object sender, EventArgs e)
         {
+            erros = 0;
+            pctBxCabeca.Visible = false;
+            pctBoxTronco.Visible = false;
+            pctBxBraco1.Visible = false;
+            pctBxBraco2.Visible = false;
+            pctBxPerna1.Visible = false;
+            pctBxPerna2.Visible = false;
+            //
+            btnSubmit.Enabled = true;
             TronT.Visible = false;
             TronR.Visible = false;
             TronO.Visible = false;
@@ -54,6 +73,50 @@ namespace Forca
             EmmaO.Visible = false;
             EmmaN.Visible = false;
             EmmaE2.Visible = false;
+            //
+            TronT.Text = "_";
+            TronR.Text = "_";
+            TronO.Text = "_";
+            TronN.Text = "_";
+            TronO2.Text = "_";
+            TronL.Text = "_";
+            TronE.Text = "_";
+            TronG.Text = "_";
+            TronA.Text = "_";
+            TronD.Text = "_";
+            TronO3.Text = "_";
+            KwaitK.Text = "_";
+            KwaitU.Text = "_";
+            KwaitW.Text = "_";
+            KwaitA.Text = "_";
+            KwaitI.Text = "_";
+            KwaitT.Text = "_";
+            ArturA.Text = "_";
+            ArturR.Text = "_";
+            ArturT.Text = "_";
+            ArturU.Text = "_";
+            ArturR2.Text = "_";
+            KyotoK.Text = "_";
+            KyotoY.Text = "_";
+            KyotoO.Text = "_";
+            KyotoT.Text = "_";
+            KyotoO2.Text = "_";
+            EmmaE.Text = "_";
+            EmmaM.Text = "_";
+            EmmaM2.Text = "_";
+            EmmaA.Text = "_";
+            EmmaS.Text = "_";
+            EmmaT.Text = "_";
+            EmmaO.Text = "_";
+            EmmaN.Text = "_";
+            EmmaE2.Text = "_";
+            //
+            pctBoxTronco.Visible = false;
+            pctBxCabeca.Visible = false;
+            pctBxBraco1.Visible = false;
+            pctBxBraco2.Visible = false;
+            pctBxPerna1.Visible = false;
+            pctBxPerna2.Visible = false;
             switch (cmbBxCategoria.Text)
             {
                 case "Filme":
@@ -115,7 +178,77 @@ namespace Forca
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
+            if (Tron.Contains(txtBxLetra.Text) == false)
+            {
+                erros = erros + 1;
+            } else if (Tron.Contains(txtBxLetra.Text) == true)
+            {
+                if (txtBxLetra.Text == "T")
+                    TronT.Text = "T";
+                else if (txtBxLetra.Text == "R")
+                    TronR.Text = "R";
+                else if (txtBxLetra.Text == "O")
+                {
+                    TronO.Text = "O";
+                    TronO2.Text = "O";
+                    TronO3.Text = "O";
+                }
+                else if (txtBxLetra.Text == "N")
+                    TronN.Text = "N";
+                else if (txtBxLetra.Text == "L")
+                    TronL.Text = "L";
+                else if (txtBxLetra.Text == "E")
+                    TronE.Text = "E";
+                else if (txtBxLetra.Text == "G")
+                    TronG.Text = "G";
+                else if (txtBxLetra.Text == "A")
+                    TronA.Text = "A";
+                else if (txtBxLetra.Text == "D")
+                    TronD.Text = "D";
+            }
 
+            if (Kuwait.Contains(txtBxLetra.Text) == false)
+            {
+                erros = erros + 1;
+            } else if (Kuwait.Contains(txtBxLetra.Text) == true)
+            {
+                if (txtBxLetra.Text == "K")
+                    KwaitK.Text = "K";
+                else if (txtBxLetra.Text == "U")
+                    KwaitU.Text = "U";
+                else if (txtBxLetra.Text == "W")
+                    KwaitW.Text = "W";
+                else if (txtBxLetra.Text == "A")
+                    KwaitA.Text = "A";
+                else if (txtBxLetra.Text == "I")
+                    KwaitI.Text = "I";
+                else if (txtBxLetra.Text == "T")
+                    KwaitT.Text = "T";
+            }
+
+            switch (erros)
+            {
+                case 1:
+                    pctBxCabeca.Visible = true;
+                    break;
+                case 2:
+                    pctBoxTronco.Visible = true;
+                    break;
+                case 3:
+                    pctBxBraco1.Visible = true;
+                    break;
+                case 4:
+                    pctBxBraco2.Visible = true;
+                    break;
+                case 5:
+                    pctBxPerna1.Visible = true;
+                    break;
+                case 6:
+                    pctBxPerna2.Visible = true;
+                    lblDica.Text = "Você Perdeu";
+                    btnSubmit.Enabled = false;
+                    break;
+            }
         }
     }
 }
